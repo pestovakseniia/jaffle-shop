@@ -52,4 +52,8 @@ final as (
 
 )
 
+<<<<<<< HEAD
 select * from final;
+=======
+select * from final
+>>>>>>> 7cc8575a9fb6f3dd366b8a230cb2686b0c864c80
