@@ -1,0 +1,8 @@
+models:
+  - name: stg_stripe__payment
+    description: All payemnts made by customers
+    columns:
+      - name: payment_id
+        description: the primary key
+      - name: payment_status
+        description: "{{ doc('payment_status') }}"
